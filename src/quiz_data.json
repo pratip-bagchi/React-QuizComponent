@@ -2,9 +2,9 @@
   "quiz_questions": [
     {
       "id": 1,
-      "instruction_text": "How many continents are there on Planet Earth?",
-      "answer_options": ["5", "6", "7", "8"],
-      "answer": "7"
+      "instruction_text": "You are a solutions architect. Your organization is building an application on premise. But would like to keep the storage on AWS. Objects/files must only be accessed via the application as there are relational and access related logics built in the application. But, as an exception, Administrators should be able to access the objects/files directly from AWS S3 console/API bypassing the application. What solution would you provide?",
+      "answer_options": ["Cached Volume Gateway", "Stored Volume Gateway", "File Gateway", "Custom built solution using S3"],
+      "answer": "File Gateway"
     },
     {
       "id": 2,
